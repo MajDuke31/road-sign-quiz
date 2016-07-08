@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Road Sign Quiz Game</string>
+    <string name="action_settings">Settings</string>
+    <string name="choices">Select Number of Choices</string>
+    <string name="correct">correct</string>
+    <string name="guess_roadsign">Guess the Road Sign</string>
+    <string name="guesses">guesses</string>
+    <string name="incorrect_answer">Incorrect!</string>
+    <string name="more_signtypes_title">More Sign Types Required</string>
+    <string name="more_signtypes_message">There are not enough signs in the selected sign types.  Please select more sign types.</string>
+    <string name="of">of</string>
+    <string name="ok">OK</string>
+    <string name="question">Question</string>
+    <string name="quiz_title">Ten Question Road Sign Quiz</string>
+    <string name="signtypes">Select Sign Types</string>
+    <string name="reset_quiz">Reset Quiz</string>
+
+    <string-array name="signTypesList">
+        <item>Regulatory</item>
+        <item>Warning</item>
+        <item>Marker</item>
+        <item>GuideInformational</item>
+        <item>RecreationalCulturalInterest</item>
+        <item>BicycleFacilities</item>
+        <item>TemporaryTrafficControl</item>
+        <item>RailroadLightRail</item>
+        <item>School</item>
+        <item>EmergencyIncidentManagement</item>
+    </string-array>
+    <string-array name="guessesList">
+        <item>3</item>
+        <item>6</item>
+        <item>9</item>
+    </string-array>
+</resources>
